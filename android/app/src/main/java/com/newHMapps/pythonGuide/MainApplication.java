@@ -1,4 +1,4 @@
-package com.newHMapps.javascript;
+package com.newHMapps.pythonGuide;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

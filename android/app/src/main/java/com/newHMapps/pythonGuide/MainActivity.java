@@ -1,4 +1,4 @@
-package com.newHMapps.javascript;
+package com.newHMapps.pythonGuide;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
